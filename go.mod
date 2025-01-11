@@ -1,4 +1,4 @@
-module github.com/Njrctr/protos
+module github.com/Njrctr/protos // wtf
 
 go 1.22.2
 
